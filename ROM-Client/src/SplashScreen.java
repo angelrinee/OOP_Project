@@ -30,7 +30,7 @@ public class SplashScreen {
             System.out.println(e);
         }
         frame.dispose();
-        new GUI("Restaurant Order Management - Client");
+        new GUI("Food by Us Order Management - Client");
     }
 
     public void centerWindow(JFrame frame) {

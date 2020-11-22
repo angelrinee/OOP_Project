@@ -1,77 +1,74 @@
 [
     {
-        "name": "Pork_Bg",
-        "price": "65.00",
-        "img": "menu_1.png"
+        "name": "GarlickPork",
+        "price": "50.00",
+        "img": "1.png",
+        "id": "GLP"
     },
     {
-        "name": "Chicken1",
-        "price": "35.00",
-        "img": "menu_2.png"
-    },
-    {
-        "name": "Chicken2",
-        "price": "145.00",
-        "img": "menu_3.png"
-    },
-    {
-        "name": "Steak",
-        "price": "249.00",
-        "img": "menu_4.png"
-    },
-    {
-        "name": "Coke",
-        "price": "30.00",
-        "img": "menu_5.png"
-    },
-    {
-        "name": "Nugget",
+        "name": "PasteFriedRice",
         "price": "60.00",
-        "img": "menu_6.png"
+        "img": "2.png",
+        "id": "PFR"
     },
     {
-        "name": "Chicken_Pop",
+        "name": "PapayaSalad",
         "price": "55.00",
-        "img": "menu_7.png"
+        "img": "3.png",
+        "id": "PS"
     },
     {
-        "name": "Mash_PTT",
-        "price": "45.00",
-        "img": "menu_8.png"
+        "name": "FlateNoodle",
+        "price": "75.00",
+        "img": "4.png",
+        "id": "FN"
     },
     {
-        "name": "french_fries",
-        "price": "79.00",
-        "img": "menu_9.png"
+        "name": "FriedRiceWithPrawn",
+        "price": "50.00",
+        "img": "5.png",
+        "id": "FRwP"
     },
     {
-        "name": "Beef_Bg",
-        "price": "89.00",
-        "img": "menu_10.png"
+        "name": "StirFriedChiliPaste",
+        "price": "60.00",
+        "img": "6.png",
+        "id": "SFChP"
     },
     {
-        "name": "Sprite",
-        "price": "30.00",
-        "img": "menu_11.png"
+        "name": "StirFriedCurryPaste",
+        "price": "60.00",
+        "img": "7.png",
+        "id": "SFCuP"
     },
     {
-        "name": "Fish_Bg",
-        "price": "65.00",
-        "img": "menu_12.png"
+        "name": "PadSeeEw",
+        "price": "50.00",
+        "img": "8.png",
+        "id": "PSE"
     },
     {
-        "name": "Salad",
+        "name": "FriedKale",
+        "price": "50.00",
+        "img": "9.png",
+        "id": "FK"
+    },
+    {
+        "name": "TomYumKung",
         "price": "120.00",
-        "img": "menu_13.png"
+        "img": "10.png",
+        "id": "TYK"
     },
     {
-        "name": "HotDog",
-        "price": "69.00",
-        "img": "menu_14.png"
+        "name": "Soup",
+        "price": "100.00",
+        "img": "11.png",
+        "id": "Soup"
     },
     {
-        "name": "Soft_Cream",
-        "price": "54.00",
-        "img": "menu_15.png"
+        "name": "BasilRice",
+        "price": "65.00",
+        "img": "12.png",
+        "id": "BR"
     }
 ]

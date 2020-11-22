@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fd59f61f-2777-4a84-9c1d-83cf233c0be7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../ROM-Client/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ROM-Client/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ROM-Client/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ROM-Client/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../ROM-Client/ROM-Client1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/config/Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/config/Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/data/menu.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/data/menu.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/img/icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/loading.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/img/loading.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/img/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/img/menu_9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Clock.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Clock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/GUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/GUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Json.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Json.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Network.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Network.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/PrintReceipt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/SplashScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/SplashScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../ROM-Client/src/Total.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../ROM-Client/src/Total.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doc/doc_Restaurant Order Management.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Doc/ppt_Restaurant Order Management.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/profile1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/profile2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/profile3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/profile4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README/profile5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/ROM-Server.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/ROM-Server1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/config/Config.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/calendar.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/checked.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/left-arrow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/left-right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/loading2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/img/time.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/lib/json-simple-1.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/Clock.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/Countdown.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/GUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/Network.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ROM-Server/src/SplashScreen.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1jKLdPd68W1PG2wIC7VdNSmp0uJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/OOP_Project-2187da6611c126332d288ff9f360a40c472a7fac/OOP_Project-2187da6611c126332d288ff9f360a40c472a7fac/Restaurant-Order-Management-master/ROM-Client" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\angel\Desktop\OOP_Project\Restaurant-Order-Management-master\ROM-Client\img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="ROM-Client" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fd59f61f-2777-4a84-9c1d-83cf233c0be7" name="Default Changelist" comment="" />
+      <created>1603547922945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603547922945</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="479" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605974569865">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="160" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1605974569865" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1606039790468">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606039790468" />
+    <state width="1306" height="2" key="GridCell.Tab.0.bottom" timestamp="1606034685617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606034685617" />
+    <state width="1306" height="2" key="GridCell.Tab.0.center" timestamp="1606034685616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606034685616" />
+    <state width="1306" height="2" key="GridCell.Tab.0.left" timestamp="1606034685616">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606034685616" />
+    <state width="1306" height="2" key="GridCell.Tab.0.right" timestamp="1606034685617">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606034685617" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1604412416089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1604412416089" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1604412416089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1604412416089" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1604412416089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1604412416089" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1604412416089">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1604412416089" />
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605947407599">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1605947407599" />
+    <state x="0" y="0" key="new project wizard" timestamp="1606039768688">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1606039768688" />
+    <state x="292" y="166" key="run.anything.popup" timestamp="1605973129859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="292" y="166" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1605973129859" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1604739084780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1604739084780" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/ROM_Client$Main.ic" NAME="Main Coverage Results" MODIFIED="1605946441755" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
